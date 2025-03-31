@@ -1,16 +1,16 @@
 # MegaDL-Bot
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/MegaDL-Bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/MegaDL-Bot?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/MegaDL-Bot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/MegaDL-Bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/MegaDL-Bot)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/MegaDL-Bot)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/MegaDL-Bot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/MegaDL-Bot?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/MegaDL-Bot)
-![GitHub](https://img.shields.io/github/license/AsmSafone/MegaDL-Bot)
-[![Bot Updates](https://img.shields.io/badge/MegaDL-Bot%20Updates-blue)](https://t.me/AsmSafone)
-[![Bot Support](https://img.shields.io/badge/MegaDL-Bot%20Support%20Group-blue)](https://t.me/AsmSupport)
+![GitHub Repo stars](https://img.shields.io/github/stars/codewithevilxd/MegaDL-Bot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/codewithevilxd/MegaDL-Bot?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/codewithevilxd/MegaDL-Bot)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/codewithevilxd/MegaDL-Bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/codewithevilxd/MegaDL-Bot)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/codewithevilxd/MegaDL-Bot)
+![GitHub contributors](https://img.shields.io/github/contributors/codewithevilxd/MegaDL-Bot?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithevilxd/MegaDL-Bot?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/codewithevilxd/MegaDL-Bot)
+![GitHub](https://img.shields.io/github/license/codewithevilxd/MegaDL-Bot)
+[![Bot Updates](https://img.shields.io/badge/MegaDL-Bot%20Updates-blue)](https://t.me/codewithevilxd)
+[![Bot Support](https://img.shields.io/badge/MegaDL-Bot%20Support%20Group-blue)](https://t.me/codewithevilxd)
 
 A Simple Telegram Bot By @codewithevilxd to Download Files From Mega.nz and Upload It to Telegram
 
