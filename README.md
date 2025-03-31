@@ -24,7 +24,7 @@ A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It
 - And More Features Coming Soon ...
 
 # Demo 
-<a href="https://t.me/Mega_DLRobot"><img src="https://img.shields.io/badge/MegaDL_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/MegaDL_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 # Deploy
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
@@ -38,7 +38,7 @@ Note: `First Fork Then Click On Deploy Button!`
 
 - Clone the Repo
 ```
-git clone https://github.com/AsmSafone/MegaDL-Bot
+git clone https://github.com/codewithevilxd/MegaDL-Bot
 ```
 - Enter the directory
 ```
@@ -56,7 +56,7 @@ python3 main.py
 # License
 ```
 MegaDL-Bot, An Telegram Bot Project
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Copyright (c) 2025  Evilxd <https://github.com/codewithevilxd>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -73,5 +73,5 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
 
 # Support 
-<a href="https://t.me/safothebot"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/codewithevilxd"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
